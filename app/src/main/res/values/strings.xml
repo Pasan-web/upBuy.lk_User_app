@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">upBuy.lk</string>
+    <string name="logH">Find, Discover, Choose and Buy anything online.</string>
+    <string name="joinBtn">Already have an account? Login</string>
+    <string name="signBtn">Sign Up</string>
+    <string name="checkbox">Remember Me</string>
+    <string name="forget">Forget Password</string>
+    <string name="loginbtn">Log In</string>
+    <string name="signbtn">Create an Account</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to</string>
+    <string name="nav_header_subtitle">UpBuy</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address_book">Address Book</string>
+    <string name="editprofile_lbl1">Change Contact Person</string>
+    <string name="editprofile_btn">Update Details</string>
+
+    <string name="proceed_payment_lbl1">Proceed Your Payment</string>
+    <string name="proceed_payment_lbl2">Delivery Address</string>
+    <string name="proceed_payment_lbl3">Contact Person</string>
+    <string name="proceed_payment_lbl4">Change Delivery address ></string>
+    <string name="proceed_payment_lbl5">Change Contact details ></string>
+    <string name="proceed_payment_lbl6">Check Out</string>
+
+    <string name="select_deliveryAdd_lbl1">Select Your delivery address</string>
+    <string name="select_deliveryAdd_lbl2">Recent</string>
+    <string name="select_deliveryAdd_lbl3">Add New Address</string>
+
+    <string name="addnew_deliveryAdd_lbl1">Lets add your delivery address</string>
+    <string name="addnew_deliveryAdd_lbl2">House, apt and flat number</string>
+    <string name="addnew_deliveryAdd_lbl3">Street Name</string>
+    <string name="addnew_deliveryAdd_lbl4">City Name</string>
+    <string name="addnew_deliveryAdd_lbl5">Landmark Name</string>
+    <string name="addnew_deliveryAdd_lbl6">Add Contact Person</string>
+    <string name="addnew_deliveryAdd_lbl7">Next</string>
+    <string name="addnew_deliveryAdd_lbl8">First Name</string>
+    <string name="addnew_deliveryAdd_lbl9">Last Name</string>
+    <string name="addnew_deliveryAdd_lbl10">Mobile</string>
+
+    <string name="order_refund_lbl1">Browse Photo</string>
+    <string name="order_refund_lbl2">Reason :</string>
+    <string name="order_refund_lbl3">Invoice Id :</string>
+    <string name="order_refund_lbl4">Description :</string>
+    <string name="verify_lbl1">UP BUY.LK is dedicated to delivering an exclusive collection of the most relevant brands and models to a community of inspired youth.</string>
+    <string name="verify_lbl2">Please Verify your Email</string>
+    <string name="verify_lbl3">Verification Code</string>
+    <string name="verify_lbl4">VERIFY IT</string>
+    <string name="verify_lbl5">Dont you have membership in our page? registration here Complete Your Profile here....</string>
+
+
+    <string name="menu_home">Home</string>
+
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_orderhistory">Order History</string>
+    <string name="menu_wishlist">My WishList</string>
+    <string name="menu_orderrefund">Order Refund</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_event">Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

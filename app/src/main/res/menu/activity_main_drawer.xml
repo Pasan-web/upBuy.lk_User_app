@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_user__1_"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/ic_heart"
+            android:title="@string/menu_wishlist" />
+        <item
+            android:id="@+id/nav_orderhistory"
+            android:icon="@drawable/ic_check_list"
+            android:title="@string/menu_orderhistory" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_cart" />
+        <item
+            android:id="@+id/nav_orderrefund"
+            android:icon="@drawable/ic_money_back"
+            android:title="@string/menu_orderrefund" />
+
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_election_event_on_a_calendar_with_star_symbol"
+            android:title="@string/menu_event" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/menu_logout" />
+
+    </group>
+
+    <group>
+        <item android:title="">
+            <menu>
+                <item
+
+                    android:title="2021 © All rights Reserved."
+
+                    />
+
+                <item
+
+                    android:title="Privacy Policy | Terms of Service" />
+
+            </menu>
+        </item>
+    </group>
+
+</menu>
